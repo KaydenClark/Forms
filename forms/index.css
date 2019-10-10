@@ -1,0 +1,19 @@
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4.5em; /*72px/16=4.5em*/
+    text-align: center;
+}
+hr{
+    size: 20px;
+}
+div{
+    text-align: center;
+    font-size: 3em; /*48px/16=3em */
+}
+p{
+    text-align: center;
+    font-size: 1.3em; /*21px/16=1.3em */
+}
+html{
+    background-image: url(Misty-Forest.jpg)
+}
